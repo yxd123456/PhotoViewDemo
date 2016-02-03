@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AS\\PhotoViewDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\AS\\PhotoViewDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AS\\PhotoViewDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\photoview.jpg",
+        "source": "E:\\AS\\PhotoViewDemo\\app\\src\\main\\res\\drawable-hdpi\\photoview.jpg"
+    }
+]
